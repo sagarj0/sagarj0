@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simplyalearner
 - 👀 I’m interested in programming language
 - 🌱 I’m currently learning C/C++ programming language
-- 💞️ I’m looking to collaborate on 
+
 
 
 <!---
