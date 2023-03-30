@@ -7,7 +7,7 @@ simplyalearner/simplyalearner is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-I'm currently learning front end.
+Currently learning front end.
 
 
 # 💻 Tech Stack:
